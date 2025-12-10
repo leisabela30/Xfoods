@@ -6,10 +6,10 @@ App de delivery para todos os públicos
 # Sistema de Delivery (Estilo iFood/UberEats)
 
 Projeto desenvolvido por:
-Cristhian Yamashiro Fernandes
-Letícia Isabela Martins
-Matheus Henrique de Oliveira
-Murilo Piva
+1. Cristhian Yamashiro Fernandes
+2. Letícia Isabela Martins
+3. Matheus Henrique de Oliveira
+4. Murilo Piva
 
 Descreveremos os principais componentes e funcionalidades do Sistema de Delivery, focando na perspectiva dos diferentes usuários.
 
